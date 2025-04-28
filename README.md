@@ -50,7 +50,7 @@ Apaixonado por transformar dados em insights estratégicos, busco constantemente
 
 ## 📫 Vamos nos conectar?
 
-- [LinkedIn](linkedin.com/in/miguel-assis-951061330)
+- [LinkedIn](https://www.linkedin.com/in/miguel-assis-951061330)
 - [Portfólio de Projetos](https://github.com/Miguel-Assis)
 - miguel.ax1503@gmail.com
 
