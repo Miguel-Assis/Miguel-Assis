@@ -51,11 +51,10 @@ Apaixonado por transformar dados em insights estratégicos, busco constantemente
 ## 📫 Vamos nos conectar?
 
 - [LinkedIn](https://www.linkedin.com/in/miguel-assis-951061330)
-- [Portfólio de Projetos](https://github.com/Miguel-Assis)
 - miguel.ax1503@gmail.com
 
 ---
 
-> *Transformando dados em decisões estratégicas.*
+> *Transformando dados em decisões estratégicas. Confira embaixo meus projetos!*
 
 
