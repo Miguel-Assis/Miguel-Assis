@@ -1,6 +1,6 @@
 # 👨‍💻 Miguel | Analista de Dados em Formação
 
-### Analise de Dados | Business Intelligence | Visualização de Dados | Python
+### Analise de Dados | Business Intelligence | SQL | Python | Power BI.
 
 ---
 
