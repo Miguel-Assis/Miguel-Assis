@@ -35,6 +35,10 @@ Apaixonado por transformar dados em insights estratégicos, busco constantemente
 
 - **Dashboard de People Analytics**  
   Criação de painéis interativos para monitoramento de indicadores de RH, como custo por departamento, média de idade dos colaboradores e quantos funcionarios tem ativos na empresa.
+   - [Dashboard People Analytiscs](https://github.com/Miguel-Assis/People-analytics-dashboard)
+  
+
+
 
 - **Dashboard de Logística de Transportadora**  
   Desenvolvimento de dashboard para análise de desempenho logístico, focado entregas e eficiência operacional.
