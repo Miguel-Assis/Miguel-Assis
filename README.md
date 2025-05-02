@@ -21,16 +21,6 @@ Apaixonado por transformar dados em insights estratégicos, busco constantemente
 
 ---
 
-## 📊 Experiência Profissional
-
-**Nexa Tecnologia** — *Estagiário de Dados*  
-*(Atual)*  
-- Desenvolvimento e manutenção de dashboards em **Power BI** para monitoramento de KPIs de SLA, controle de horas extras e requisições internas.
-- Criação de soluções automatizadas utilizando **Excel** e **SQL** para a gestão e análise de dados operacionais.
-- Suporte na implementação de boas práticas de visualização e gestão de dados.
-
----
-
 ## 📫 Vamos nos conectar?
 
 - [LinkedIn](https://www.linkedin.com/in/miguel-assis-951061330)
