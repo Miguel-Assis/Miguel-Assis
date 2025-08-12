@@ -1,4 +1,4 @@
-# Óla, meu nome é Miguel
+# Olá, meu nome é Miguel
 
 ### Analista de Dados | Business Intelligence | Excel | SQL | Python | Power BI.
 
