@@ -1,6 +1,6 @@
-# 👨‍💻 Miguel | Analista de Dados em Formação
+# Óla, meu nome é Miguel
 
-### Analise de Dados | Business Intelligence | SQL | Python | Power BI.
+### Analista de Dados | Business Intelligence | Excel | SQL | Python | Power BI.
 
 ---
 
@@ -13,11 +13,11 @@ Apaixonado por transformar dados em insights estratégicos, busco constantemente
 
 ## 🚀 Skills Técnicas
 
-- **Linguagens**: Python (Pandas, Matplotlib, Seaborn), SQL
-- **BI & Visualização**: Power BI, Excel Avançado
-- **Banco de Dados**: SQL Server
-- **Análise de Dados**: Storytelling com Dados, Criação de Indicadores, Análises Explorativas
-- **Automação**: Automatização de Relatórios e Processos com Python e Excel
+- **Linguagens**: Python (Pandas, Matplotlib, Seaborn, Plotly), SQL;
+- **BI & Visualização**: Power BI, Excel Avançado;
+- **Banco de Dados**: MySQL, SQL Server;
+- **Análise de Dados**: Storytelling com Dados, Criação de Indicadores, Análises Explorativas;
+- **Automação**: Automatização de Relatórios e Processos com Python.
 
 ---
 
