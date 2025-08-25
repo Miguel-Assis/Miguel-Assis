@@ -23,7 +23,7 @@ Apaixonado por transformar dados em insights estratégicos, busco constantemente
 
 ## 📫 Vamos nos conectar?
 
-- [LinkedIn](www.linkedin.com/in/migueldossantosassis)
+- https://www.linkedin.com/in/migueldossantosassis
 - miguel.ax1503@gmail.com
 
 ---
